@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-mock",
+  "version": "1.0.0",
+  "description": "Dashboard mock",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-http-proxy": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "manu@wso2.com",
+  "license": "Apache-2.0"
+}
